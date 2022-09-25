@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Vikalp</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <h1>💫 About Me:</h1>
-<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width = "400" alt= "Coding">
+<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width = "450" alt= "Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-vikalp&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-vikalp" /> </p>
 
