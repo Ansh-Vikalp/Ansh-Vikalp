@@ -58,5 +58,5 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/92860846/192118106-3e5c1b58-2270-443b-ad45-cd854f5f9e40.gif" border=1 title="Cool DUDE">
+<img src="https://user-images.githubusercontent.com/92860846/192118106-3e5c1b58-2270-443b-ad45-cd854f5f9e40.gif" border=1 title="🐱‍💻Cool DUDE">
 
