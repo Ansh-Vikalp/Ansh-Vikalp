@@ -44,17 +44,29 @@
 
   
  ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ansh-Vikalp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vikalp&theme=merko&hide_border=false)<br/>
+ <!-- Tis is commented code for green theme of Github Stats -->
+<!--  ![](https://github-readme-stats.vercel.app/api?username=Ansh-Vikalp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vikalp&theme=merko&hide_border=false)<br/>
 
-<div align='left'>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vikalp&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
-<br>
+  <div align='left'>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vikalp&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </div>
+  <br>
+
+  [![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansh-Vikalp&theme=react-dark&line=91B302&color=68B486)](https://github.com/ashutosh00710/github-readme-activity-graph)  -->
+  
+![](https://github-readme-stats.vercel.app/api?username=Ansh-Vikalp&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vikalp&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vikalp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansh-Vikalp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<!-- This is commented cide for Github Green Theme Random Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
