@@ -1,10 +1,11 @@
 ![2000_600px](https://user-images.githubusercontent.com/92860846/192116488-2ece1a36-465f-4c27-a71d-4e72f553000b.gif)
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  height="45" width="45" valign="bottom"> I'm Ansh Vikalp</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-<h1>💫 About Me:</h1>
+<h3 align="middle"> <img src= "https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&size=27&pause=1000&color=FF1E1E&center=true&vCenter=true&width=800&lines=A+passionate+</Android+developer>+from+India.;Creative%20UI%2FUX%20Designer.;Always+learning+new+things.;Addicted+to+🎶."> </h3> 
+<h2>💫 About Me:</h2>
 <img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width = "450" alt= "Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-vikalp&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-vikalp" />
+ 
 </p>
 
 - 😄 Pronouns: ***He/His***
