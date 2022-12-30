@@ -79,7 +79,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vikalp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansh-Vikalp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ansh-Vikalp&theme=react-dark)](https://github.com/Ansh-Vikalp/github-readme-activity-graph) 
 
 
 ### ✍️ Random Dev Quote
