@@ -14,7 +14,7 @@
 
 - 👨‍🎓 Intern at __SmartInternz__
 
-- 🌱 I’m currently learning **Google Cloud, Android, Flutter, C.P**
+- 🌱 I’m currently learning **Google Cloud, Android, J2EE**
 
 - 💬 Ask me about **Android, C++, C.P, JAVA**
 
