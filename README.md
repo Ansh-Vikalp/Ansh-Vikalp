@@ -50,6 +50,10 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style= "padding-right: 10px;"/> </a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style= "padding-right: 40px;"/> </a> 
 
+
+
+
+
 </p>
 &nbsp;
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-vikalp&show_icons=true&locale=en&layout=compact" alt="ansh-vikalp" /></p>
@@ -75,8 +79,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vikalp&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vikalp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ansh-Vikalp&theme=react-dark)](https://github.com/Ansh-Vikalp/github-readme-activity-graph)
 
 
 ### ✍️ Random Dev Quote
