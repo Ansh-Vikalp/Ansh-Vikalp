@@ -3,7 +3,7 @@
 <!-- https://user-images.githubusercontent.com/92860846/192116488-2ece1a36-465f-4c27-a71d-4e72f553000b.gif -->
 </p>
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  height="40" width="40" valign="bottom"> I'm Ansh Vikalp</h1>
-<h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&size=27&pause=1000&color=5AB2FF&center=true&vCenter=true&width=800&lines=A+passionate+</Android+developer>+from+India.;Creative%20UI%2FUX%20Designer.;Always+learning+new+things.;Addicted+to+🎶."> </h3> 
+<h3 align="center"> <img align= "center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&pause=1000&color=5AB2FF&center=true&vCenter=true&width=800&lines=A+dedicated+developer+from+India+.;Innovative+UI%2FUX+Designer+🎨.;Constantly+exploring+new+ideas+💡.;Music+enthusiast+🎧."> </h3> 
 <!-- https://github.com/user-attachments/assets/a34ee4c8-b881-43d7-8c9a-c5991b636e84 -->
 <!-- <h2>💫 About Me:</h2> --> 
 <!-- https://github.com/user-attachments/assets/1a9ead63-45d7-4a57-9105-094646224a9a -->
@@ -14,7 +14,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-vikalp&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-vikalp"/> </p>
 
 - 😄 Pronouns: ***He/His***
-- 🔭 I’m currently working on ***Projects,Placements,Emerging Tech.***
 - 👨‍🎓 Intern at __SmartInternz__
 - 🌱 I’m currently learning **Android, J2EE**
 - 💬 Ask me about **Android, C.P, JAVA**
