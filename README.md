@@ -1,6 +1,8 @@
-╔══════════════════════════════════════════════════════════════════════════════════════╗
+<p align="center">
+╔════════════════════════════════════════════════════════════════════════════════════╗
  <img src="https://user-images.githubusercontent.com/92860846/192116488-2ece1a36-465f-4c27-a71d-4e72f553000b.gif" align="center" alt= "Banner" width=1000px>
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════════════════╝
+</p>
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  height="40" width="40" valign="bottom"> I'm Ansh Vikalp</h1>
 <h3 align="center"> <img src= "https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&size=27&pause=1000&color=5AB2FF&center=true&vCenter=true&width=800&lines=A+passionate+</Android+developer>+from+India.;Creative%20UI%2FUX%20Designer.;Always+learning+new+things.;Addicted+to+🎶."> </h3> 
 <!-- <h2>💫 About Me:</h2> --> 
